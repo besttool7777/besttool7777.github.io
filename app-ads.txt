@@ -1,11 +1,15 @@
 #space cleaner
 #phone cleaner
+#easy booster
 
 #Meta
 facebook.com, 306320318209707, DIRECT, c3e20eee3f780d68
 facebook.com, 733509788016922, DIRECT, c3e20eee3f780d68
+facebook.com, 1382524538909109, DIRECT, c3e20eee3f780d68
 
 google.com, pub-9685445000968476, DIRECT, f08c47fec0942fa0
+facebook.com, 695152731587851, DIRECT, c3e20eee3f780d68
+
 
 pangleglobal.com, 5002622, DIRECT
 
